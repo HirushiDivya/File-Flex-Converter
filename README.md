@@ -12,6 +12,8 @@ FileFlex Converter is a web-based application that allows users to easily conver
 5. [Usage](#usage)   
 6. [Contact](#contact)
 7. [Screenshots](#Screenshots)
+8. [Analytics & Optimization](#Analytics-&-Optimization)
+9. [Support](#Support)
 
 ---
 
@@ -25,6 +27,10 @@ FileFlex Converter is a web-based application that allows users to easily conver
 - **Batch Processing**: Upload multiple files at once for faster conversions.  
 - **Clean and Simple UI**: User-friendly interface built with HTML, CSS, and JavaScript.  
 
+---
+
+### 🔒 Privacy First
+Unlike other online converters, **FileFlex processes all your files locally in your browser.** Your documents are never uploaded to any server, ensuring 100% data privacy and security.
 ---
 
 ## Installation
@@ -46,6 +52,13 @@ Frontend: HTML, CSS, JavaScript
 File Handling: JavaScript File API, OCR library (for image → text)
 Version Control: Git & GitHub
 
+- **Libraries & APIs:**
+  - [jsPDF](https://github.com/parallax/jsPDF) - Image to PDF conversion.
+  - [pdf-lib](https://pdf-lib.js.org/) - Merging and Splitting PDF documents.
+  - [Tesseract.js](https://tesseract.projectnaptha.com/) - OCR for extracting text from images.
+  - [Mammoth.js](https://github.com/mwilliamson/mammoth.js) - Word (.docx) to HTML conversion.
+  - [html2canvas](https://html2canvas.hertzen.com/) - Rendering HTML for PDF generation.
+
 ## File Structure
 File-Flex-Converter/
 │
@@ -60,6 +73,17 @@ File-Flex-Converter/
 <img width="1858" height="927" alt="Screenshot 2025-11-29 171306" src="https://github.com/user-attachments/assets/ea9e46fa-9248-4ce7-b3cf-0abc220fbd19" />
 
 
+---
 
+## 📊 Analytics & Optimization
+To provide a better user experience and monitor performance, this project is integrated with:
+- **Google Search Console:** Optimized for indexing and search visibility.
+- **Google Analytics (GA4):** Used to track user engagement and site traffic responsibly.
+
+
+## 🌟 Support
+If you find this project helpful, please give it a ⭐ on GitHub!
+
+Developed with ❤️ by [Hirushi Divya](https://github.com/HirushiDivya)
 
 
